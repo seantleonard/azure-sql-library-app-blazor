@@ -28,7 +28,7 @@
     1. In a command prompt within a folder of your choice: 
         1. `git clone https://github.com/seantleonard/azure-sql-library-app-blazor dab-workshop`
         1. `cd dab-workshop`
-        1. `git checkout dev/seantleonard/7_pull_newest_dotnet_dev_container_image
+        1. `git checkout dev/seantleonard/7_pull_newest_dotnet_dev_container_image`
         1. `code .` // opens VSCode given it is set in your PATH variable. otherwise, open vscode and open the cloned folder.
 1. Build Sample and Deploy "DevContainer"
     1. Press <kbd>F1</kbd> and select the **Dev Containers: Open Folder in Container...** command.
