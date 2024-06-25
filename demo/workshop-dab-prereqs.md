@@ -32,6 +32,6 @@
         1. `code .` // opens VSCode given it is set in your PATH variable. otherwise, open vscode and open the cloned folder.
 1. Build Sample and Deploy "DevContainer"
     1. Press <kbd>F1</kbd> and select the **Dev Containers: Open Folder in Container...** command.
-    1. Select the cloned copy of this folder (just select **Select folder** at the bottom right of the popup, don't select any specific folder), wait for the container to start, and try things out!
+    1. Select the cloned copy of this folder (just select **Open** at the bottom right of the popup, don't select any specific folder), wait for the container to start, and try things out!
     1. ![vscode - Open folder in container](vsc-openfoldercontainer.png)
     1. Deployment takes about 10 minutes!
